@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Anish200308/IncomeTax/static/css/main.5fb96446.css",
+    "main.js": "/Anish200308/IncomeTax/static/js/main.ea1f20e7.js",
+    "static/js/787.f44214fd.chunk.js": "/Anish200308/IncomeTax/static/js/787.f44214fd.chunk.js",
+    "static/media/6938839_3409297.jpg": "/Anish200308/IncomeTax/static/media/6938839_3409297.964518f6852c9c68042d.jpg",
+    "static/media/logo.svg": "/Anish200308/IncomeTax/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Anish200308/IncomeTax/index.html",
+    "main.5fb96446.css.map": "/Anish200308/IncomeTax/static/css/main.5fb96446.css.map",
+    "main.ea1f20e7.js.map": "/Anish200308/IncomeTax/static/js/main.ea1f20e7.js.map",
+    "787.f44214fd.chunk.js.map": "/Anish200308/IncomeTax/static/js/787.f44214fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fb96446.css",
+    "static/js/main.ea1f20e7.js"
+  ]
+}
